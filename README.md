@@ -1,6 +1,6 @@
 How to start:
 
-Optional: if venv folder is not available
+Optional: if venv folder is not available, run:
     python3 -m venv venv
 
 source venv/bin/activate
